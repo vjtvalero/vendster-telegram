@@ -1,2 +1,2 @@
 # vendster-telegram
-Mini point-of-sale system chatbot
+Mini POS chatbot
